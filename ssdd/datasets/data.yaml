@@ -1,0 +1,4 @@
+train: C:/Users/user/iCloudDrive/Desktop/PHD_SND/summaries_gui/ssdd/datasets/train/images
+val: C:/Users/user/iCloudDrive/Desktop/PHD_SND/summaries_gui/ssdd/datasets/val/images
+nc: 1
+names: ['ship']
